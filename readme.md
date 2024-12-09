@@ -24,8 +24,8 @@ Requirements:
 1. Requested IPA decryption via decrypt.day (https://decrypt.day/app/id1054598922)
 2. Download and install to iPhone using Feather or AppDB, or using Sideloadly if just for AR
 3. Connect iPhone to computer and run 3uTools and wait for phone to be loaded
-4. Toolbox tab > VirtualLocation > Set latitude "23.13745464", longitude "113.31512868" 
-	note: These coordinates are for the McD Guangzhou Victory Plaza Flagship location.
+4. Toolbox tab > VirtualLocation > Set latitude "23.13745464", longitude "113.31512868"   
+	note: These coordinates are for the McD Guangzhou Victory Plaza Flagship location.  
 	4b. Check Apple Maps on iPhone to see if GPS location was overrided, if not, retry on 3uTools.
 5. Open McDonald's China app. If "Guangzhou Victory Plaza McDonald's" is shown as the set location, swipe down from the upper middle of the screen and once the text says "Drop to enter", let go.
 6. Let the app download the necessary AR files, completes when app asks for camera perms.
