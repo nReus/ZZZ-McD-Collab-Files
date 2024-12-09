@@ -18,9 +18,10 @@ Requirements:
 	- A phone with AR capabilities (iPhone X and newer)  
 	- A Windows PC with 3uTools installed  
 	- A sideloading method  
-		- Signing certificate for file extraction and AR  
-		- Apple Account if you just want to try the AR  
+		--> Signing certificate for file extraction and AR  
+		--> Apple Account if you just want to try the AR  
 
+If you wish to just try AR, skip steps 1 and 2, and download the app using a US Apple Account instead.
 1. Requested IPA decryption via decrypt.day (https://decrypt.day/app/id1054598922)
 2. Download and install to iPhone using Feather or AppDB, or using Sideloadly if just for AR
 3. Connect iPhone to computer and run 3uTools and wait for phone to be loaded
@@ -33,10 +34,10 @@ Requirements:
 To actually use the AR function, you need to scan the images found in the "assets/arassets/scanimage/" container in AssetStudio.
 These (excluding the flagship one) must be displayed on the floor to appear correctly.
 
-(Optional: if extracting files, requires installation via Feather or AppDB)
-7. Close app, open Files app, go to "On My iPhone > McDonald's > yoo > Default"
-8. Copy "CacheFiles" folder to another location, compress, then transfer to a computer if need be.
+(Optional: if extracting files, requires installation via Feather or AppDB)  
+1. Close app, open Files app, go to "On My iPhone > McDonald's > yoo > Default"  
+2. Copy "CacheFiles" folder to another location, compress, then transfer to a computer if need be.  
 
-Further notes:
-	- It does not need to be the Guangzhou Victory Plaza location. There are five other locations, but you'll need to find the Long+Lat coords of those.
-	- 
+Further notes:  
+- It does not need to be the Guangzhou Victory Plaza location. There are five other locations, but you'll need to find the Long+Lat coords of those.  
+
