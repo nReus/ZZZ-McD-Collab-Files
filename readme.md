@@ -9,7 +9,7 @@ If you do end up using these specific files for mods or MMD, you should obviousl
 These are Unity cache files, and need to be extracted for use. Using AssetStudio, load "CacheFiles" as a folder, and extract as necessary. No encryption.
 
 
-### How did you get these files? OR, can I try the AR myself?
+## How did you get these files? OR, can I try the AR myself?
 
 Here's the process of doing just that on iOS with no jailbreak necessary. 
 (Spoofing on Android is possible but more involved and may need a newer device possibly with root.)
