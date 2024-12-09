@@ -1,7 +1,7 @@
 These are the raw Unity cache files for the Zenless Zone Zero x McDonald's BFF Collab.
 
 All files have been downloaded and extracted by nReus and akaisdev. 
-If you do end up using these specific files for mods or MMD, you should obviously credit MiHoYo, but I also ask you to credit me too. It was a headache to figure out how to grab these.
+If you do end up using these specific files for mods or MMD, you should obviously credit MiHoYo, but I also ask you to credit us too. It was a headache to figure out how to grab these.
 
 
 ## HOW TO USE
