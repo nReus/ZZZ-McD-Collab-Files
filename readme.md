@@ -15,11 +15,11 @@ Here's the process of doing just that on iOS with no jailbreak necessary.
 (Spoofing on Android is possible but more involved and may need a newer device possibly with root.)
 
 Requirements:
-	- A phone with AR capabilities (iPhone X and newer)  
-	- A Windows PC with 3uTools installed  
-	- A sideloading method  
-		--> Signing certificate for file extraction and AR  
-		--> Apple Account if you just want to try the AR  
+- A phone with AR capabilities (iPhone X and newer)  
+- A Windows PC with 3uTools installed  
+- A sideloading method  
+	- Signing certificate for file extraction and AR  
+	- Apple Account if you just want to try the AR  
 
 If you wish to just try AR, skip steps 1 and 2, and download the app using a US Apple Account instead.
 1. Requested IPA decryption via decrypt.day (https://decrypt.day/app/id1054598922)
